@@ -1,0 +1,23 @@
+Yandex Cloud (AS200350)
+• 51.250.0.0/17 — Yandex Cloud / hosting
+• 84.201.128.0/18 — Yandex Cloud / hosting
+• 158.160.0.0/16 — Yandex Cloud / hosting
+
+VK Cloud (AS47764)
+• 95.163.248.0/22 — VK Cloud / hosting
+• 217.16.24.0/21 — VK Cloud Solutions / hosting
+
+Timeweb (AS9123)
+• 91.222.239.0/24 — Timeweb / hosting
+• 185.39.206.0/24 — Timeweb / hosting
+
+EdgeCenter (AS210756)
+• 95.181.182.0/24 — EdgeCenter / CDN / edge
+
+MVPS (AS202448)
+• 185.177.73.0/24 — MVPS / hosting
+
+Остальные / инфраструктура
+• 103.111.114.0/24 — Melbicom (провайдерская сеть)
+• 134.17.94.0/24 — MTS Belarus (AS25106)
+• 185.141.216.0/24 — Moula-World LLC (AS26832)
