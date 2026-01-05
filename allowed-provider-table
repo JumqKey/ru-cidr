@@ -1,21 +1,28 @@
 Yandex Cloud (AS200350)
-• 51.250.0.0/17 — Yandex Cloud / hosting
-• 84.201.128.0/18 — Yandex Cloud / hosting
-• 158.160.0.0/16 — Yandex Cloud / hosting
+• 51.250.0.0/17 — Yandex Cloud / hosting - Билайн, ТМоб, МТС, Yota, Мегафон, Т2
+• 84.201.128.0/18 — Yandex Cloud / hosting - T2, ТМоб
+• 158.160.0.0/16 — Yandex Cloud / hosting - T2
 
 VK Cloud (AS47764)
 • 95.163.248.0/22 — VK Cloud / hosting
-• 217.16.24.0/21 — VK Cloud Solutions / hosting
+• 217.16.24.0/21 — VK Cloud Solutions / hosting - МТС, Т2
 
 Timeweb (AS9123)
 • 91.222.239.0/24 — Timeweb / hosting
-• 185.39.206.0/24 — Timeweb / hosting
+• 185.39.206.0/24 — Timeweb / hosting - Т2
 
 EdgeCenter (AS210756)
-• 95.181.182.0/24 — EdgeCenter / CDN / edge
+• 95.181.182.0/24 — EdgeCenter / CDN / edge Т2
 
 MVPS (AS202448)
-• 185.177.73.0/24 — MVPS / hosting
+• 185.177.73.0/24 — MVPS / hosting (забугорный)
+
+LLC "ASTRA CLOUD"  RUSONYX-AERO (AS205952)
+• 89.253.200.0/21 LLC "ASTRA CLOUD" (rusonyx) (Москва) - Т2
+
+Забугорные (зарубежные) провайдеры 
+•  185.141.216.0/24 Rica Web Services (RCS Technologies FZE LLC) (Монреаль, Квебек, Канада) - T2
+•  103.111.114.0/24 Melbikomas UAB (melbicom.net) (Мумбаи, Махараштра, Индия) - Т2
 
 Остальные / инфраструктура
 • 103.111.114.0/24 — Melbicom (провайдерская сеть)
