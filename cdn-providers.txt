@@ -1,0 +1,13 @@
+CDNVideo  -- Платный
+Beeline (CDNVideo) -- Бесплатный
+Timeweb (CDNVideo) -- Платный (0.6 rub per gb)
+Beget (CDNVideo) -- Платный
+Selectel -- Платный
+Yandex Cloud -- Платный
+MWS -- Платный
+Ngenix (рега только с юр.лицом) -- Платный (около 7 тыс рублей в мес. без платы за потребления)
+
+  Рабочие методы:
+    XHTTP+PACKET-UP+GET (CDNVideo, Selectel Yandex Cloud, Ngenix, MWS)
+    WebSocket (Ngenix)
+    
