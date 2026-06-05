@@ -5,6 +5,15 @@
 
 ---
 
+## Сервис для проверок IP
+
+**Сервисы:**
+
+* [BSCHEKBOT - МТС,Т2,Мегафон,Билайн,Т-Мобайл](https://t.me/bschekbot?start=ref_p6mm9pz3)
+* [Роспингнадзор ](https://t.me/rospingnadzorbot)
+
+---
+
 ## Файлы
 
 **Названия:**
